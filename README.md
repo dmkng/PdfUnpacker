@@ -7,12 +7,12 @@ Download [here](https://github.com/dmkng/PdfUnpacker/releases/latest)
 Usage
 -----
 ```
-java -jar PdfUnpacker.jar file.pdf [password]
+java -jar PdfUnpacker.jar <file> [password]
 ```
 
 Building
 --------
-You can just open this as an IntelliJ IDEA project.
+You can just open this as an IntelliJ IDEA project and use the Maven tab on the right side.
 
 Or, from the command line:
 ```
